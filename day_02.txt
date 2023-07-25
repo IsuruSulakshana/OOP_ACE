@@ -1,0 +1,6 @@
+Encapsulation
+ -Private & protected attributes
+ -Private & protected methods
+ -Getters & Setters
+ -Property decorators
+ -Private helper method

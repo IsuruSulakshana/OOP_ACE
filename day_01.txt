@@ -1,0 +1,14 @@
+OOP vs POP
+Introduction OOP
+Introduction OOP concept
+ - Abstraction
+ - Encapsulation
+ - Polymorphism
+ - Inheritance
+Abstraction
+ - Classes & objects
+   - Structure
+   - Attributes
+   - Methods
+ - Constructor(init method)
+ 

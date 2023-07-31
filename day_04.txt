@@ -1,7 +1,0 @@
-Inheritance
- -Multiple inheritance
- -Hybrid inheritance
-Polymorphism
- -Method Overriding
- -Method Overloading
-Python main function

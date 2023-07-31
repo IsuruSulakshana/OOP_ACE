@@ -1,0 +1,34 @@
+Inheritance
+ -Multiple inheritance
+ -Hybrid inheritance
+Polymorphism
+ -Method Overriding
+ -Method Overloading
+Python main Method
+ -What is the main Method
+ -Creating the main Method
+ -data processing script
+ -DNA anomaly detection application(simple example)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
